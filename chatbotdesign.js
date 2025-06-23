@@ -351,7 +351,7 @@
             responseTimeText: '',
             poweredBy: {
                 text: 'Sentinel Tech',
-                link: 'https://www.youtube.com/watch?v=B53dsWWE4tU'
+                link: 'https://sentinelton.com'
             }
         },
         style: {
